@@ -988,13 +988,13 @@ body {
   background-repeat: no-repeat;
 }
 .about--options > a:nth-child(1) {
-  background-image: url("../img/ea.png");
+  background-image: url("../img/nyuad_eng.jpg");
 }
 .about--options > a:nth-child(2) {
-  background-image: url("../img/student_gov.png");
+  background-image: url("../img/ea.png");
 }
 .about--options > a:nth-child(3) {
-  background-image: url("../img/min.png");
+  background-image: url("../img/student_gov.png");
 }
 .about--options > a:hover h3 {
   bottom: -50px;
